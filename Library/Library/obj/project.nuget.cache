@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYSt0bqYJIPthwQ1JK6Mh8Y9hgfOeL8s7/VhruvIHH9Lip2ANspqXiTbjxZibqaD1LKkTR76cb+kTmeysQceHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tadas\\OneDrive\\Desktop\\NEThw\\Projektas2\\Library\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tadas\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\tadas\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
